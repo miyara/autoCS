@@ -44,6 +44,7 @@ import com.amazonaws.services.sqs.model.SendMessageRequest;
  * <p>
  * <b>WARNING:</b> To avoid accidental leakage of your credentials, DO NOT keep
  * the credentials file in your source directory.
+ * commit test by miyara
  */
 public class SimpleQueueServiceSample {
 
